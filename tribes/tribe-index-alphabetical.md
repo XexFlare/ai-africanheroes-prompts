@@ -1,0 +1,27 @@
+# Tribe Index (Alphabetical)
+
+- Akan (West Africa) → `tribes/west-africa/akan.md`
+- Amhara (Horn of Africa) → `tribes/horn-of-africa/amhara.md`
+- Chewa (East & Southern Africa) → `tribes/east-africa/chewa.md`
+- Ewe (West Africa) → `tribes/west-africa/ewe.md`
+- Fang (Central Africa) → `tribes/central-africa/fang.md`
+- Fulani (West Africa) → `tribes/west-africa/fulani.md`
+- Hausa (West Africa) → `tribes/west-africa/hausa.md`
+- Igbo (West Africa) → `tribes/west-africa/igbo.md`
+- Kamba (East Africa) → `tribes/east-africa/kamba.md`
+- Kikuyu (East Africa) → `tribes/east-africa/kikuyu.md`
+- Kongo (Central Africa) → `tribes/central-africa/kongo.md`
+- Luba (Central Africa) → `tribes/central-africa/luba.md`
+- Luhya (East Africa) → `tribes/east-africa/luhya.md`
+- Luo (East Africa) → `tribes/east-africa/luo.md`
+- Mongo (Central Africa) → `tribes/central-africa/mongo.md`
+- Ndebele (Southern Africa) → `tribes/southern-africa/ndebele.md`
+- Oromo (Horn of Africa) → `tribes/horn-of-africa/oromo.md`
+- Shona (Southern Africa) → `tribes/southern-africa/shona.md`
+- Tigray (Horn of Africa) → `tribes/horn-of-africa/tigray.md`
+- Tswana (Southern Africa) → `tribes/southern-africa/tswana.md`
+- Tumbuka (Southern Africa) → `tribes/southern-africa/tumbuka.md`
+- Wolof (West Africa) → `tribes/west-africa/wolof.md`
+- Xhosa (Southern Africa) → `tribes/southern-africa/xhosa.md`
+- Yoruba (West Africa) → `tribes/west-africa/yoruba.md`
+- Zulu (Southern Africa) → `tribes/southern-africa/zulu.md`
