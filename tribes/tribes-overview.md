@@ -1,0 +1,27 @@
+# Tribe Index (Alphabetical)
+
+- **Akan** (West Africa) – A large West African group centered in Ghana, historically urban, commercial, and politically organized.
+- **Amhara** (Horn of Africa) – A highland Ethiopian group with long urban, agrarian, and administrative traditions.
+- **Chewa** (East & Southern Africa) – A widespread southern-central African group with strong rural-urban continuity across Malawi, Zambia, and Mozambique.
+- **Ewe** (West Africa) – A coastal and inland West African group known for dense settlements and strong artisanal traditions.
+- **Fang** (Central Africa) – A Central African forest-region group with strong clan structures and compact physical builds.
+- **Fulani** (West Africa) – A widely dispersed pastoral group spanning West Africa, often associated with leaner frames and nomadic heritage.
+- **Hausa** (West Africa) – A major West African urban and trading population with deep historical city networks.
+- **Igbo** (West Africa) – A densely populated southeastern Nigerian group with strong entrepreneurial and urban migration patterns.
+- **Kamba** (East Africa) – An East African group from Kenya with mixed rural and urban livelihoods and strong trading traditions.
+- **Kikuyu** (East Africa) – Kenya’s largest ethnic group, historically agrarian and now heavily urbanized.
+- **Kongo** (Central Africa) – A historic Central African group tied to early kingdoms and long-established settlements.
+- **Luba** (Central Africa) – A Central African group with deep roots in pre-colonial state systems and metallurgy.
+- **Luhya** (East Africa) – A cluster of related groups in western Kenya with agricultural and town-based populations.
+- **Luo** (East Africa) – A Nilotic group in East Africa with distinct facial structure and strong fishing and urban traditions.
+- **Mongo** (Central Africa) – A large Central African forest-region population with diverse subgroups and settlement patterns.
+- **Ndebele** (Southern Africa) – A southern African group closely related to Zulu, with shared historical and linguistic roots.
+- **Oromo** (Horn of Africa) – The largest ethnic group in Ethiopia, spanning rural, pastoral, and modern urban contexts.
+- **Shona** (Southern Africa) – A major southern African population centered in Zimbabwe with long agricultural and urban history.
+- **Tigray** (Horn of Africa) – A northern Ethiopian highland group with ancient urban centers and strong architectural heritage.
+- **Tswana** (Southern Africa) – A southern African group historically organized around towns and cattle economies.
+- **Tumbuka** (Southern Africa) – A northern Malawi and eastern Zambia group with strong rural settlement continuity.
+- **Wolof** (West Africa) – A dominant Senegalese group centered around Dakar and coastal urban life.
+- **Xhosa** (Southern Africa) – A southern African group with deep rural roots and strong modern urban representation.
+- **Yoruba** (West Africa) – A highly urbanized West African group with long-established cities and complex social systems.
+- **Zulu** (Southern Africa) – A major southern African group with strong historical identity and modern urban presence.
